@@ -11,7 +11,8 @@
 #if __has_include(<MoPub/MoPub.h>)
     #import <MoPub/MoPub.h>
 #else
-    #import "MPNativeAdAdapter.h"
+//    #import "MPNativeAdAdapter.h"
+    #import <MoPubSDK/MPNativeAdAdapter.h>
 #endif
 
 #import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>

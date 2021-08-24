@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name                   = "JTMoPubMediationObjc"
           
-          s.version                = "0.0.2"
+          s.version                = "0.0.3"
           #3.  
           s.summary                = "SDK MoPub Mediation Objc for iOS developer."
           #4.
@@ -32,5 +32,5 @@ Pod::Spec.new do |s|
           # s.dependency 'mopub-ios-sdk', '5.18.0'
 
           s.pod_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
-          # s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
+          s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
     end
