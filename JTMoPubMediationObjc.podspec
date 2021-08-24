@@ -28,9 +28,9 @@ Pod::Spec.new do |s|
           #10.
           s.swift_version          = '4.2'
 
-          s.dependency 'AotterTrek-iOS-SDK','3.6.2'
-          s.dependency 'mopub-ios-sdk', '5.18.0'
+          # s.dependency 'AotterTrek-iOS-SDK','3.6.2'
+          # s.dependency 'mopub-ios-sdk', '5.18.0'
 
           s.pod_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
-          s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
+          # s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
     end
