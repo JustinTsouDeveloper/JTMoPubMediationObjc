@@ -1,0 +1,6 @@
+framework module TrekSDKMoPubMediationObjc {
+  umbrella header "TrekSDKMoPubMediationObjc.h"
+
+  export *
+  module * { export * }
+}
