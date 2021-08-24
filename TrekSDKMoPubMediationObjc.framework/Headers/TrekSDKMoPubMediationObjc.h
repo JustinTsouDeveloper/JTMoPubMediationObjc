@@ -6,6 +6,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <TrekSDKMoPubMediationObjc/AotterTrekNativeAdAdapter.h>
+#import <TrekSDKMoPubMediationObjc/AotterTrekNativeAdRenderer.h>
+#import <TrekSDKMoPubMediationObjc/AotterTrekNativeCustomEvent.h>
 
 //! Project version number for TrekSDKMoPubMediationObjc.
 FOUNDATION_EXPORT double TrekSDKMoPubMediationObjcVersionNumber;

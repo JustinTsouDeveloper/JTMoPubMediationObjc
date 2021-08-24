@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name                   = "JTMoPubMediationObjc"
           
-          s.version                = "0.0.1"
+          s.version                = "0.0.2"
           #3.  
           s.summary                = "SDK MoPub Mediation Objc for iOS developer."
           #4.
