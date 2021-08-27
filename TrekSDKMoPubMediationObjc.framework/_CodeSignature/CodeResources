@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AotterTrekNativeAdAdapter.h</key>
+		<key>Headers/AotterTrekNativeAdRenderer.h</key>
 		<data>
-		bXk6iKiTZw8AsJ7HhDaLekprJIw=
+		nY8t33/sQHlevDUMhQgxaynWQZ4=
 		</data>
 		<key>Headers/TrekSDKMoPubMediationObjc.h</key>
 		<data>
@@ -23,15 +23,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AotterTrekNativeAdAdapter.h</key>
+		<key>Headers/AotterTrekNativeAdRenderer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bXk6iKiTZw8AsJ7HhDaLekprJIw=
+			nY8t33/sQHlevDUMhQgxaynWQZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			WI/t2ED5/qNUCw3AVVGjrwF1Y8tddi3d0pxMuN+Aslk=
+			oIpEBHTdFyNBuIVDz+2abuYoNQ4LAnKP/8CxeVibJ+M=
 			</data>
 		</dict>
 		<key>Headers/TrekSDKMoPubMediationObjc.h</key>
