@@ -6,15 +6,7 @@
 	<dict>
 		<key>Headers/AotterTrekNativeAdAdapter.h</key>
 		<data>
-		bXk6iKiTZw8AsJ7HhDaLekprJIw=
-		</data>
-		<key>Headers/AotterTrekNativeAdRenderer.h</key>
-		<data>
-		nY8t33/sQHlevDUMhQgxaynWQZ4=
-		</data>
-		<key>Headers/AotterTrekNativeCustomEvent.h</key>
-		<data>
-		QyfcUQ6I8KDWmvCBZLXJCmqnWkc=
+		zjJO0AzUnHq6/l8eUKyN+FWqUyQ=
 		</data>
 		<key>Headers/TrekSDKMoPubMediationObjc.h</key>
 		<data>
@@ -35,33 +27,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bXk6iKiTZw8AsJ7HhDaLekprJIw=
+			zjJO0AzUnHq6/l8eUKyN+FWqUyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			WI/t2ED5/qNUCw3AVVGjrwF1Y8tddi3d0pxMuN+Aslk=
-			</data>
-		</dict>
-		<key>Headers/AotterTrekNativeAdRenderer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nY8t33/sQHlevDUMhQgxaynWQZ4=
-			</data>
-			<key>hash2</key>
-			<data>
-			oIpEBHTdFyNBuIVDz+2abuYoNQ4LAnKP/8CxeVibJ+M=
-			</data>
-		</dict>
-		<key>Headers/AotterTrekNativeCustomEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QyfcUQ6I8KDWmvCBZLXJCmqnWkc=
-			</data>
-			<key>hash2</key>
-			<data>
-			1ibyATgoaVjIW/6PcJJdL+tuAo1rXFrPVNHSklSEhbU=
+			ufTmwewNwzJhTUtshCjkMyzoFEZpnU1t1TJZsmm1Gio=
 			</data>
 		</dict>
 		<key>Headers/TrekSDKMoPubMediationObjc.h</key>
