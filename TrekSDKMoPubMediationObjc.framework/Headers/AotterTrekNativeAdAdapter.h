@@ -14,13 +14,7 @@
     #import "MoPubSDK/MPNativeAdAdapter.h"
 #endif
 
-#if __has_include(<AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>)
-    #import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>
-#else
-    #import <AotterTrek-iOS-SDK/TKAdNative.h>
-    #import <AotterTrek-iOS-SDK/TKAdSuprAd.h>
-#endif
-//#import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>
+#import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>
 
 @interface AotterTrekNativeAdAdapter : NSObject<MPNativeAdAdapter, TKAdNativeDelegate>
 @property TKAdNative *adNative;
