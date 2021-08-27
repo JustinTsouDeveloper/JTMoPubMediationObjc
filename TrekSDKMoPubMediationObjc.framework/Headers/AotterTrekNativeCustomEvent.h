@@ -8,10 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-//#import "MPNativeCustomEvent.h"
-//#import "MPNativeAd.h"
-#import <MoPubSDK/MPNativeCustomEvent.h>
-#import <MoPubSDK/MPNativeAd.h>
+#import "MoPubSDK/MPNativeCustomEvent.h"
+#import "MoPubSDK/MPNativeAd.h"
 #import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>
 
 @interface AotterTrekNativeCustomEvent : MPNativeCustomEvent<TKAdNativeDelegate,TKAdSuprAdDelegate>
